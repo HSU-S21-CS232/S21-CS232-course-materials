@@ -7,6 +7,9 @@ Please create a new repository in the course's github organization.  The name of
 * [IMDB](https://www.imdb.com/interfaces/)
 * [Open Data Project](https://github.com/collections/open-data)
 
+## Other resources
+* [Pandas Youtube tutorial](https://www.youtube.com/watch?v=vmEHCJofslg&t=847s)
+
 ## Minimum Requirements
 Your assignment will be graded based both on the script you develop to answer your questions as well as the writeup you provide.  The writeup should be in a Juypter notebook file.  Your code can also be there, but you may need to write separate scripts as well.  I leave that up to you.  In order to receive full credit, you must provide statistical analysis for the questions that I provide in the overview.  If you are doing your own analysis, you will be expected to provide an equivalent level of data analysis for your chosen dataset.  
 
