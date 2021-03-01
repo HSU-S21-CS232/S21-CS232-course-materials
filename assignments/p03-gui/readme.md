@@ -1,7 +1,11 @@
 # Project 3 - Building GUIs in Python using QT
 In this assignment, you will build a basic graphical application using the cross platform (and cross language!) QT GUI tools. For this, you will need the following:
-* [Download QT](https://www.qt.io/download-qt-installer)  ([Offline installer](https://www.qt.io/offline-installers))
+* [QT Designer](https://build-system.fman.io/qt-designer-download)
 * [Pyside2 QT bindings](https://pypi.org/project/PySide2/)
+
+## Optional
+* [Download the full QT SDK](https://www.qt.io/download-qt-installer)  ([Offline installer](https://www.qt.io/offline-installers))
+
 
 ## Requirements 
 You are tasked with developing something cool.  If you can't think of anything, cool, you can implement the music player described below.
