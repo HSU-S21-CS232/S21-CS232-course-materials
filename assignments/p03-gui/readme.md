@@ -15,7 +15,7 @@ Included in the same folder as this readme is a starter QT for Python applicatio
 
 If you go this option, you need to add volume controls as well as proper play/stop capabilities to the music player.  As a bonus, try adding a playlist feature with the ability to skip between songs!  
 
-In building the basic prototype, I referred to the [QMediaPlayer](https://doc.qt.io/qtforpython/PySide2/QtMultimedia/QMediaPlayer.html?highlight=qmediaplayer#PySide2.QtMultimedia.QMediaPlayer) documentation and [QT Audio Overview](https://doc.qt.io/qt-5/audiooverview.html) page.
+In building the basic prototype, I referred to the [QMediaPlayer](https://doc.qt.io/qt-5/qmediaplayer.html) documentation and [QT Audio Overview](https://doc.qt.io/qt-5/audiooverview.html) page.
 
 [Watch a video](https://humboldtstate.zoom.us/rec/play/vsd-drz6rDo3HdyRswSDA_5_W461Jqis03dM-qcFmEa1WnkFNFGjb7pGauuNWI8Ue_fI38oVdjCzoLhK?autoplay=true&startTime=1585504296000) that I recorded last year.  
 
